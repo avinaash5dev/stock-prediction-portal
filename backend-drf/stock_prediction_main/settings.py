@@ -37,6 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # New apps Created
+    'accounts.apps.AccountsConfig',
+    'apis.apps.ApisConfig',
+    # 3rd party library
     'rest_framework',
 ]
 
