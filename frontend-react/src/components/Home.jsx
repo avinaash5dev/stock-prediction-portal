@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Home = () => {
+
     return (
         <div className="d-flex justify-content-center align-items-center"
             style={{ minHeight: "75vh", backgroundColor: "#1f2428" }}>
